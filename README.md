@@ -1,49 +1,58 @@
 
-<!-- ========== HEADER ========== -->
-
-<h1 align="center">Hi 👋, I'm Ashish Tripathi</h1>
+<h1 align="center">Hey there! 👋 I'm Ashish Tripathi</h1>
 
 <h3 align="center">
-  B.Tech CSE Student | Aspiring Software Developer | Tech Enthusiast
+  💻 B.Tech CSE Student | Aspiring Developer | Startup Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Passionate+about+Technology;Learning+Web+Development;Exploring+Artificial+Intelligence;Building+Projects+and+Learning+Every+Day" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Learning+by+Building+Projects;Exploring+AI+%26+Technology;Turning+Ideas+Into+Reality" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Ashish-1980-build">
-    <img src="https://img.shields.io/github/followers/Ashish-1980-build?label=Followers&style=for-the-badge&color=blue" />
+    <img src="https://img.shields.io/badge/GitHub-Ashish--1980--build-181717?style=for-the-badge&logo=github"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Ashish-1980-buildE&style=for-the-badge&color=brightgreen" />
+  <img src="https://komarev.com/ghpvc/?username=Ashish-1980-build&style=for-the-badge&color=blue"/>
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
 - 🎓 B.Tech Computer Science Engineering Student
-- 💻 Learning Web Development and Software Engineering
-- 🤖 Interested in Artificial Intelligence and Emerging Technologies
+- 🌍 Based in Gujarat, India
+- 💻 Interested in Web Development & Software Engineering
+- 🤖 Exploring Artificial Intelligence and AI Tools
 - 🚀 Passionate about Startups and Entrepreneurship
-- 🌱 Currently improving my programming and development skills
-- 🎯 My goal is to build impactful technology products
-- ⚡ Believe in learning by building projects
+- 🎨 Interested in UI/UX Design
+- 🌱 Currently learning, experimenting and building projects
+- 🎯 Dream: Build impactful technology products from India
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## ⚡ Technologies & Tools
 
-### 💻 Programming & Development
+### Languages & Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python" />
 </p>
 
-### 🎨 Design & Other Tools
+### Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
+
+---
+
+## 🚀 My Projects
+
+<p align="center">
+  <a href="https://github.com/Ashish-1980-build?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
 ---
@@ -51,37 +60,37 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ashish-1980-build&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-1980-build&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🔥 GitHub Contribution Streak
+## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Ashish-1980-build&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ashish-tripathi-a028193abN/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  <a href="https://github.com/Ashish-1980-build">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://github.com/Ashish Tripathi">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
 
 ---
 
 <h3 align="center">
-  💡 "Building my skills, one project at a time."
+  💡 Code. Create. Learn. Repeat.
 </h3>
 
 <p align="center">
-  ⭐ Thanks for visiting my profile!
+  Thanks for visiting my profile! ⭐
 </p>
